@@ -7,6 +7,6 @@ grades:
   - subject: Math
     grade: B
   - subject: English
-    grade: D
+    grade: F
   - subject: Science
     grade: E-
